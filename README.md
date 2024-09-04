@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">- 🔐 Cryptography enthusiast<br>- 🐍 Currently learning Python<br>- ❤️ I love exploring new technologies <br>- 🎲 Always be ready to change, programming is adapting :)</h4>
+<h3 align="left">- 🔐 Cryptography enthusiast<br>- 🐍 Currently learning Python<br>- ❤️ I love exploring new technologies <br>- 🎲 Always be ready to change, programming is adapting :)</h3>
 
 ###
 
